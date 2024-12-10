@@ -1,0 +1,35 @@
+.mainCont {
+  border: 1px solid black;
+  width: 700px;
+  height: 500px;
+  display: flex;
+}
+.innerCont {
+  border: 1px solid black;
+  width: 350px;
+  /* height: 500px; */
+  /* display: flex; */
+}
+
+.recBar {
+  border: 1px solid black;
+  height: 50px;
+  width: 350px;
+  text-align: center;
+}
+.recBar2 {
+  border: 1px solid black;
+  height: 50px;
+  width: 350px;
+  text-align: center;
+}
+.miniCont {
+  border: 1px solid red;
+  width: 350px;
+  height: 395px;
+}
+.miniContItem {
+  border: 1px solid green;
+  width: 350px;
+  height: 65px;
+}
